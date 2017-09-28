@@ -1,0 +1,23 @@
+BOM Weather API
+Weather:
+ftp://ftp.bom.gov.au/anon/gen/fwo/IDN11050.xml
+
+Trains:
+https://opendata.transport.nsw.gov.au/status
+http://www.sydneytrains.info/rss/feeds/trackwork.xml
+
+
+Traffic disruptions:
+https://www.livetraffic.com/traffic/rss/sydney.atom
+
+Dataset explorer:
+https://data.gov.au/dataset?q=sydney+traffic&sort=extras_harvest_portal+asc%2C+score+desc%2C+metadata_modified+desc
+
+Objective:
+1. Show the weather for the day. What to expect, high and low temperatures.
+2. Show the UV for the day, and the protection times
+3. Show the status of each train line today.
+4. Expand the above with detailed information.
+5. If there is upcoming trackwork show that too.
+6. Show the roads status. Anything with expect delays. Can expand if needed.
+7. Make this responsive
