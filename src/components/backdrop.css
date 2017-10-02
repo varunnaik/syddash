@@ -1,0 +1,19 @@
+.bgAttribution {
+	padding: 5px 30px 5px 30px;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	font-size: smaller;
+	color: #222;
+	background: #fff;
+	border-radius: 2px;
+	opacity: 0.5;
+}
+
+.bgAttribution a {
+	text-dectoration: none;
+}
+
+.backdrop {
+	height: 100vh;
+}
