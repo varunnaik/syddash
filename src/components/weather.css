@@ -1,0 +1,31 @@
+.weather {
+	color: white;
+	mix-blend-mode: difference;
+	position: absolute;
+	top: 5px;
+}
+@media only screen and (min-device-width : 420px) {
+	.weather {
+		text-align: center;
+	}
+}
+.weather i {
+	margin-right: 10px;
+}
+.weather h2 {
+	font-size: 48px;
+	vertical-align: middle;
+	margin-bottom: 5px;
+}
+.minMax {
+	font-size: larger;
+	margin-left: 10px;
+	text-align: left;
+}
+.uv {
+	margin-top: 10px;
+}
+.desc {
+	text-transform: capitalize;
+	margin-top: 10px;
+}
